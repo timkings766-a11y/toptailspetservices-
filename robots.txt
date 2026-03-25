@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://your-username.github.io/sitemap.xml
+
+# Toptails Pet Services Limited
+# Tigoni, Kabuku, Kenya
